@@ -961,7 +961,7 @@ section.contact .container .icons ul li a{
     }
     .about .about-content p {
         color: var(--pure);
-        font-size: 0.01rem;
+        font-size: 0.8rem;
         font-weight: bold;
         padding-left: 1px;
     }
@@ -971,7 +971,7 @@ section.contact .container .icons ul li a{
 {
     .about .about-content p {
         color: var(--pure);
-        font-size: 0.01rem;
+        font-size: 0.81rem;
         font-weight: bold;
         padding-left: 19px;
     }
