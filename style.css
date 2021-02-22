@@ -403,11 +403,11 @@ section.skills{
         .bar{
             display: block;
             height: 10px;
-            background: crimson;
+            background: transparent;
             border: 2px solid var(--primary);
             overflow: hidden;
             border-radius: 20px;
-            box-shadow:0 0 5px var(--primary);
+            box-shadow:0 0 9px var(--primary);
 
         }
         .bar span{
