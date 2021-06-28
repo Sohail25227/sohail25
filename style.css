@@ -29,7 +29,7 @@ html{
 header{
     background-image: linear-gradient(to right,var(--dark) ,rgb(46, 43, 43));
     /* clip-path: polygon(0 0, 100% 0, 100% 100%, 80% 90%, 0 100% ); */
-}
+} 
 
 
 .container{
